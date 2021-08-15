@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="plesbuy2nd:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>plesbuy2nd</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="plesbuy2nd-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="plesbuy2nd:war exploded" />
+    </root>
+  </artifact>
+</component>
