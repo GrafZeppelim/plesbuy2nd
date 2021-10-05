@@ -32,7 +32,7 @@ public class SpringConfig {
     @Bean
     public LocalContainerEntityManagerFactoryBean entityManagerFactory(DataSource dataSource) {
         LocalContainerEntityManagerFactoryBean entityManager = new LocalContainerEntityManagerFactoryBean();
-        // refer to datasource()
+      
         entityManager.setDataSource(dataSource);
         // initialize our configuration with the default settings that are compatible with Hibernate
         entityManager.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
