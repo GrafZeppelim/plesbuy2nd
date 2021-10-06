@@ -6,7 +6,7 @@
 <%@taglib uri="http://www.springframework.org/tags" prefix="spring" %>
 <html>
 <head>
-    <title>2nd Shop</title>
+    <title>hom nay</title>
     <script src="/resources/js/jquery.3.1.1.min.js"></script>
     <script src="/resources/js/jquery.twbsPagination.min.js"/>
 
