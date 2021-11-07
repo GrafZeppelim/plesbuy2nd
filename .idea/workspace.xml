@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22af61af-0b49-40e1-8a4d-92bb25738564" name="Default" comment="" />
+    <list default="true" id="22af61af-0b49-40e1-8a4d-92bb25738564" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/addproduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/addproduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/addsuppliers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/addsuppliers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/editproduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/editproduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/editsuppliers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/editsuppliers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registered.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registered.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/addproduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/addproduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/addsuppliers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/addsuppliers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/editproduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/editproduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/editsuppliers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/admin/editsuppliers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/registered.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT/WEB-INF/jsp/registered.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,10 +85,23 @@
       <dir>E:\Iviettech\DEMO - PROJECT\Yumi-Shop\Yumi-Shop</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/product.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registered.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin/card.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/m07/config/SpringConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cart.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/m07/shop/controller/CartController.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -338,7 +365,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/VanTu/Desktop/Yumi-Shop/Yumi-Shop/Yumi-Shop/src/main/java/m07/entity/Customer.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/plesbuy2nd-1.0-SNAPSHOT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -448,7 +475,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
@@ -764,6 +791,13 @@
       <workItem from="1626941265009" duration="3027000" />
       <workItem from="1626944675038" duration="2519000" />
       <workItem from="1626947319146" duration="2683000" />
+      <workItem from="1633059351509" duration="1909000" />
+      <workItem from="1633492331986" duration="1351000" />
+      <workItem from="1635234521792" duration="645000" />
+      <workItem from="1635296198965" duration="279000" />
+      <workItem from="1636181661627" duration="3426000" />
+      <workItem from="1636255637302" duration="5023000" />
+      <workItem from="1636280336562" duration="2960000" />
     </task>
     <servers />
   </component>
@@ -862,6 +896,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

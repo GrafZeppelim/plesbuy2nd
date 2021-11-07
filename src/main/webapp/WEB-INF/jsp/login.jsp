@@ -60,7 +60,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
             <c:if test="${not empty SPRING_SECURITY_LAST_EXCEPTION}">
                 <p style="color: red;">
-                    Đăng nập không thành công, sai tên đăng nhập hoặc mật khẩu
+                    Đăng nhập không thành công, sai tên đăng nhập hoặc mật khẩu
                 </p>
             </c:if>
         </div>

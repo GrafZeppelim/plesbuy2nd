@@ -54,7 +54,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <form:form  id="register" method="post" modelAttribute="customer">
                 <form:input path="fullname" action="/registered" placeholder="Full name" required="true"></form:input>
                 <label></label>
-                <input accept="image/*" name="file" type="file" id="files" placeholder="Avata" class="form-control" required="true">
+                <input accept="image/*" name="file" type="file" id="files" placeholder="Avata" class="form-control">
                 <img id="image" width="100" height="100"/>
                 <script>
                     document.getElementById('files').onchange = function () {
@@ -64,7 +64,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 </script>
                 <h6><spring:message code="Login" text="default text"/></h6>
 
-                <form:input path="id" id="username" placeholder="User name" required="true" pattern="^(?=.{8,20}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$" title="Username must be written with no accents from 8-20 characters, must not be repeated or marked with '_' or '.' at the end or beginning of the username eg: Example_23, Example.32"></form:input>
+                <form:input path="id" id="username" placeholder="User name" required="true" pattern="^(?=.{8,20}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$" title="Username must be written with no accents from 8-20 characters, must not be  or marked with '_' or '.' at the end or beginning of the username eg: Example_23, Example.32"></form:input>
                 <div id="error"></div>
                 <form:input type = "password" id = "password" path="password" placeholder="Password" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,32}$" title="Your password must be between 8-32 characters including at least 1 uppercase letter, 1 lowercase letter, 1 number and 1 special character" required="true"></form:input>
 

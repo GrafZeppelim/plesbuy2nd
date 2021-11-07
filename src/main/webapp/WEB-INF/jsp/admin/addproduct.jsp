@@ -135,7 +135,7 @@
                                 <div class="col-md-4">
                                     <div class="form-group">
                                         <label>Hình Ảnh</label>
-                                        <input accept="image/*" name="file" type="file" id="files" class="form-control" required="true">
+                                        <input accept="image/*" name="file" type="file" id="files" class="form-control">
                                         <img id="image" width="200" height="300"/>
                                     </div>
                                 </div>
